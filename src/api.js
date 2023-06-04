@@ -1,4 +1,4 @@
-const API_KEY = '2d607e0e0846093633f45cc85001abef';
+const API_KEY = '';
 
 
 // semua Endpoint
